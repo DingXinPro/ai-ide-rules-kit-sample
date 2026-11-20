@@ -4,7 +4,7 @@ Free, public sample of **AI IDE Rules Kit**: two installable project rules in th
 
 This is a documentation snapshot, checked against official docs on **20 November 2026**. It is not a lifetime-updated policy, not "50+ rules," and not an official partnership with Cursor, Windsurf, Vercel, or anyone else.
 
-Suggested public GitHub repo name (only when you publish it): `DingXinPro/ai-ide-rules-kit-sample`. This sample folder is not a GitHub repository until you create one.
+This sample is published at [https://github.com/DingXinPro/ai-ide-rules-kit-sample](https://github.com/DingXinPro/ai-ide-rules-kit-sample).
 
 ## Why this format (not a root `.cursorrules`)
 
@@ -56,7 +56,7 @@ The paid pack adds six more rules (FastAPI + Pydantic v2, Tailwind CSS v4, Supab
 
 - Price: **$19 USD, one-time** (no lifetime-update promise).
 - Claim: **8 rules, checked against official docs in November 2026, in the current official MDC format.**
-- Product URL (fill in after the Gumroad listing is published): `GUMROAD_URL`
-- Existing seller shop (not the product link until the listing exists): [https://dingster13.gumroad.com](https://dingster13.gumroad.com)
+- Product URL: [https://dingster13.gumroad.com/l/ai-ide-rules-kit](https://dingster13.gumroad.com/l/ai-ide-rules-kit)
+- Seller shop: [https://dingster13.gumroad.com](https://dingster13.gumroad.com)
 
 This sample is MIT-licensed (see `LICENSE`). The paid pack has a separate license and is not free to republish as a competing pack.
